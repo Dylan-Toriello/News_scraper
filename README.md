@@ -1,2 +1,4 @@
 # News_scraper
-Gets the start index and end index and collects all the news titles, links, and dates posted. All of this information is in a excel sheet sorted from earliest to latest.
+Was tasked to collect date, title, and name of articles for a spreadsheet. 
+
+Put in the start index and end index (page number on the site) and it collects all the articles from each page and formats them from most recent and on in a spreadsheet
